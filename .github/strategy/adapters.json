@@ -81,7 +81,8 @@
       "dydx-stark",
       "iex-cloud",
       "cfbenchmarks",
-      "harmony"
+      "harmony",
+      "ethwrite"
     ]
   },
   "2-step": {
