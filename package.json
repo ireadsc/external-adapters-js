@@ -87,7 +87,8 @@
     "dydx-stark",
     "iex-cloud",
     "cfbenchmarks",
-    "harmony"
+    "harmony",
+    "ethwrite"
   ],
   "scripts": {
     "lint": "yarn workspaces run lint",
