@@ -81,7 +81,8 @@
       "iex-cloud",
       "cfbenchmarks",
       "harmony",
-      "tiingo"
+      "tiingo",
+      "geodb"
     ]
   },
   "2-step": {

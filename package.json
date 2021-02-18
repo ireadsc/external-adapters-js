@@ -87,7 +87,8 @@
     "iex-cloud",
     "cfbenchmarks",
     "harmony",
-    "tiingo"
+    "tiingo",
+    "geodb"
   ],
   "scripts": {
     "lint": "yarn workspaces run lint",
